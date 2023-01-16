@@ -1,5 +1,4 @@
-
-   body {
+body {
     background-image:url("pic.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
@@ -297,5 +296,3 @@ input{
     height: 70px;
     text-align:center;
 }
-  
-     
